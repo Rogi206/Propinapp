@@ -1,0 +1,8 @@
+{
+  "name": "Propinapp",
+  "description": "Tu plataforma profesional de gestión de propinas con analíticas y geolocalización.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
